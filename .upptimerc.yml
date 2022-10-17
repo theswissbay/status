@@ -43,7 +43,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO/issues
 
 workflowSchedule:
-  uptime: "*0 0 29 2 1"
+  uptime: "0 0 29 2 1"
 
 assignees:
   - tsb-theswissguy
