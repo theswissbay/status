@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://theswissbay.ch/favicon.ico
   baseUrl: /upptime-monitor
   name: The Swiss Bay - offsite uptime monitor
-  theme: dark
+  theme: night
   #introTitle: "The Swiss Bay - offsite uptime monitor"
   #introMessage: "This is the offsite uptime monitor for The Swiss Bay"
   navbar:
