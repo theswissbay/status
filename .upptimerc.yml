@@ -1,10 +1,10 @@
 owner: theswissbay
-repo: upptime-monitor
+repo: status
 
 user-agent: theswissbay
 
 sites:
-  - name: The Swiss Bay
+  - name: Website
     url: https://theswissbay.ch/
     icon: https://theswissbay.ch/favicon.ico
   - name: PDF archive
@@ -25,11 +25,11 @@ sites:
 status-website:
   # cname: demo.upptime.js.org
   logoUrl: https://theswissbay.ch/favicon.ico
-  baseUrl: /upptime-monitor
-  name: The Swiss Bay - offsite uptime monitor
+  baseUrl: /status
+  name: The Swiss Bay
   theme: night
-  #introTitle: "The Swiss Bay - offsite uptime monitor"
-  #introMessage: "This is the offsite uptime monitor for The Swiss Bay"
+  introTitle: "Status monitor"
+  introMessage: "This service is hosted on GitHub to monitor our services as they are seen from the Internet."
   navbar:
     - title: The Swiss Bay
       href: https://theswissbay.ch/
