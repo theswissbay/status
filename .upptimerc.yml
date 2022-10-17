@@ -31,7 +31,7 @@ status-website:
   introTitle: "Status monitor"
   introMessage: "This service is hosted on GitHub to monitor our services as they are seen from the Internet."
   navbar:
-    - title: The Swiss Bay
+    - title: Website
       href: https://theswissbay.ch/
     - title: PDF archive
       href: https://theswissbay.ch/pdf
@@ -41,6 +41,9 @@ status-website:
       href: https://gitlab.theswissbay.ch/
     - title: Incident history
       href: https://github.com/$OWNER/$REPO/issues
+
+workflowSchedule:
+  uptime: "*0 0 29 2 1"
 
 assignees:
   - tsb-theswissguy
