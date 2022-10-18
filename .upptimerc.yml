@@ -10,6 +10,9 @@ sites:
   - name: PDF archive
     url: https://theswissbay.ch/pdf/changelog.html
     icon: https://theswissbay.ch/favicon.ico
+  - name: Arch Linux mirror
+    url: https://theswissbay.ch/archlinux/lastupdate
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png
   - name: 4id
     url: https://fourid.theswissbay.ch/
     icon: https://fourid.theswissbay.ch/static/img/ico.webp
@@ -29,13 +32,16 @@ status-website:
   name: The Swiss Bay
   theme: night
   introTitle: "Status monitor"
-  introMessage: "This service is hosted on GitHub to monitor our services as they are seen from the Internet."
+  introMessage: "This service is hosted on GitHub to monitor our endpoints as they are seen from the Internet."
   navbar:
     - title: Website
       href: https://theswissbay.ch/
       target: _blank
     - title: PDF archive
       href: https://theswissbay.ch/pdf/
+      target: _blank
+    - title: Arch Linux mirror
+      href: https://theswissbay.ch/archlinux/
       target: _blank
     - title: 4id
       href: https://fourid.theswissbay.ch/
