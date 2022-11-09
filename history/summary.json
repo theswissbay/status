@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 457,
-    "timeDay": 442,
-    "timeWeek": 426,
-    "timeMonth": 457,
-    "timeYear": 457,
+    "time": 460,
+    "timeDay": 531,
+    "timeWeek": 434,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2022-10-22": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 801,
-    "timeDay": 409,
-    "timeWeek": 530,
-    "timeMonth": 801,
-    "timeYear": 801,
+    "time": 811,
+    "timeDay": 1125,
+    "timeWeek": 560,
+    "timeMonth": 811,
+    "timeYear": 811,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 108,
-    "timeWeek": 120,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "time": 128,
+    "timeDay": 162,
+    "timeWeek": 124,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 457,
-    "timeDay": 417,
-    "timeWeek": 429,
-    "timeMonth": 457,
-    "timeYear": 457,
-    "dailyMinutesDown": {
-      "2022-11-08": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 459,
+    "timeDay": 475,
+    "timeWeek": 439,
+    "timeMonth": 459,
+    "timeYear": 459,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitLab",
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 1076,
-    "timeWeek": 710,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "time": 673,
+    "timeDay": 832,
+    "timeWeek": 735,
+    "timeMonth": 673,
+    "timeYear": 673,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 104,
-    "timeWeek": 121,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "time": 124,
+    "timeDay": 165,
+    "timeWeek": 125,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   }
 ]
