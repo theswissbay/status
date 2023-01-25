@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 456,
     "timeDay": 359,
@@ -16,7 +16,6 @@
     "timeMonth": 462,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
       "2022-10-22": 9
     }
   },
@@ -27,18 +26,16 @@
     "slug": "pdf-archive",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 684,
     "timeDay": 653,
     "timeWeek": 605,
     "timeMonth": 593,
     "timeYear": 684,
-    "dailyMinutesDown": {
-      "2023-01-25": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arch Linux mirror",
@@ -47,18 +44,16 @@
     "slug": "arch-linux-mirror",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 100,
     "timeWeek": 122,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-01-25": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "4id",
@@ -67,37 +62,35 @@
     "slug": "4id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 502,
     "timeDay": 1389,
     "timeWeek": 883,
     "timeMonth": 599,
     "timeYear": 502,
-    "dailyMinutesDown": {
-      "2023-01-25": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitLab",
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 683,
-    "timeWeek": 697,
-    "timeMonth": 708,
-    "timeYear": 695,
+    "time": 693,
+    "timeDay": 638,
+    "timeWeek": 676,
+    "timeMonth": 701,
+    "timeYear": 693,
     "dailyMinutesDown": {
-      "2023-01-25": 2
+      "2023-01-25": 0
     }
   },
   {
@@ -107,8 +100,8 @@
     "slug": "git-lab-ssh",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
@@ -116,8 +109,6 @@
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-01-25": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
