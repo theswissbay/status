@@ -60,19 +60,19 @@
     "url": "https://fourid.theswissbay.ch/",
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 403,
-    "timeWeek": 525,
-    "timeMonth": 491,
-    "timeYear": 469,
+    "time": 505,
+    "timeDay": 2436,
+    "timeWeek": 1018,
+    "timeMonth": 615,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 5
     }
   },
   {
