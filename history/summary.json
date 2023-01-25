@@ -60,9 +60,9 @@
     "url": "https://fourid.theswissbay.ch/",
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 525,
     "timeMonth": 491,
     "timeYear": 469,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "GitLab",
@@ -98,17 +100,15 @@
     "slug": "git-lab-ssh",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 116,
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-01-25": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
