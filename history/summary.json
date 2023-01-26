@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 456,
-    "timeDay": 359,
-    "timeWeek": 430,
-    "timeMonth": 462,
-    "timeYear": 456,
+    "time": 459,
+    "timeDay": 475,
+    "timeWeek": 455,
+    "timeMonth": 472,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2022-10-22": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 653,
-    "timeWeek": 605,
-    "timeMonth": 593,
-    "timeYear": 684,
+    "time": 685,
+    "timeDay": 777,
+    "timeWeek": 579,
+    "timeMonth": 586,
+    "timeYear": 685,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 100,
-    "timeWeek": 122,
+    "timeDay": 110,
+    "timeWeek": 117,
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {}
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 502,
-    "timeDay": 1389,
-    "timeWeek": 883,
+    "timeDay": 1397,
+    "timeWeek": 871,
     "timeMonth": 599,
     "timeYear": 502,
     "dailyMinutesDown": {}
@@ -80,18 +80,16 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
-    "timeDay": 624,
-    "timeWeek": 665,
-    "timeMonth": 697,
+    "timeDay": 632,
+    "timeWeek": 654,
+    "timeMonth": 698,
     "timeYear": 692,
-    "dailyMinutesDown": {
-      "2023-01-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitLab SSH",
@@ -105,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 125,
-    "timeWeek": 131,
+    "timeDay": 132,
+    "timeWeek": 127,
     "timeMonth": 131,
     "timeYear": 128,
     "dailyMinutesDown": {}
