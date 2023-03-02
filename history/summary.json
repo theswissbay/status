@@ -4,19 +4,19 @@
     "url": "https://theswissbay.ch/",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 453,
-    "timeDay": 322,
-    "timeWeek": 406,
-    "timeMonth": 429,
-    "timeYear": 453,
+    "time": 452,
+    "timeDay": 331,
+    "timeWeek": 398,
+    "timeMonth": 426,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2023-03-02": 4,
+      "2023-03-02": 9,
       "2022-10-22": 9
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://theswissbay.ch/pdf/changelog.html",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "pdf-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 395,
-    "timeWeek": 536,
-    "timeMonth": 554,
-    "timeYear": 662,
+    "time": 663,
+    "timeDay": 606,
+    "timeWeek": 571,
+    "timeMonth": 563,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2023-03-02": 3
+      "2023-03-02": 9
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://theswissbay.ch/archlinux/lastupdate",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png",
     "slug": "arch-linux-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 99,
-    "timeWeek": 113,
-    "timeMonth": 125,
+    "timeDay": 101,
+    "timeWeek": 111,
+    "timeMonth": 124,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-03-02": 3
+      "2023-03-02": 9
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://fourid.theswissbay.ch/",
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 380,
-    "timeWeek": 436,
-    "timeMonth": 451,
-    "timeYear": 490,
+    "time": 489,
+    "timeDay": 366,
+    "timeWeek": 426,
+    "timeMonth": 447,
+    "timeYear": 489,
     "dailyMinutesDown": {
-      "2023-03-02": 2
+      "2023-03-02": 8
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 615,
-    "timeWeek": 641,
-    "timeMonth": 664,
-    "timeYear": 687,
+    "time": 686,
+    "timeDay": 560,
+    "timeWeek": 624,
+    "timeMonth": 659,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2023-03-02": 1
+      "2023-03-02": 8
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "81.6.2.165",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab-ssh",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 101,
-    "timeWeek": 112,
+    "time": 127,
+    "timeDay": 102,
+    "timeWeek": 111,
     "timeMonth": 124,
-    "timeYear": 128,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-03-02": 0
+      "2023-03-02": 6
     }
   }
 ]
