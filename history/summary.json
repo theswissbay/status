@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
-    "timeDay": 446,
-    "timeWeek": 401,
-    "timeMonth": 426,
+    "timeDay": 426,
+    "timeWeek": 413,
+    "timeMonth": 422,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2022-10-22": 9
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 1054,
-    "timeWeek": 628,
-    "timeMonth": 582,
-    "timeYear": 666,
+    "time": 667,
+    "timeDay": 879,
+    "timeWeek": 689,
+    "timeMonth": 589,
+    "timeYear": 667,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 132,
-    "timeWeek": 115,
-    "timeMonth": 124,
+    "timeDay": 126,
+    "timeWeek": 119,
+    "timeMonth": 123,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 458,
-    "timeWeek": 430,
-    "timeMonth": 448,
-    "timeYear": 489,
+    "time": 488,
+    "timeDay": 450,
+    "timeWeek": 433,
+    "timeMonth": 444,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -80,18 +80,16 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 690,
-    "timeDay": 894,
-    "timeWeek": 704,
-    "timeMonth": 683,
+    "timeDay": 881,
+    "timeWeek": 711,
+    "timeMonth": 678,
     "timeYear": 690,
-    "dailyMinutesDown": {
-      "2023-03-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitLab SSH",
@@ -105,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 131,
-    "timeWeek": 115,
-    "timeMonth": 124,
+    "timeDay": 130,
+    "timeWeek": 119,
+    "timeMonth": 122,
     "timeYear": 127,
     "dailyMinutesDown": {}
   }
