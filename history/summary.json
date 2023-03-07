@@ -4,19 +4,19 @@
     "url": "https://theswissbay.ch/",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 452,
-    "timeDay": 422,
-    "timeWeek": 428,
-    "timeMonth": 432,
-    "timeYear": 452,
+    "time": 453,
+    "timeDay": 447,
+    "timeWeek": 435,
+    "timeMonth": 434,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2023-03-07": 6,
+      "2023-03-07": 10,
       "2022-10-22": 9
     }
   },
@@ -27,18 +27,16 @@
     "slug": "pdf-archive",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 720,
     "timeDay": 3176,
     "timeWeek": 1520,
     "timeMonth": 881,
     "timeYear": 720,
-    "dailyMinutesDown": {
-      "2023-03-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arch Linux mirror",
@@ -47,18 +45,16 @@
     "slug": "arch-linux-mirror",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 209,
     "timeWeek": 149,
     "timeMonth": 133,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2023-03-07": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "4id",
@@ -107,9 +103,9 @@
     "slug": "git-lab-ssh",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 131,
@@ -117,7 +113,7 @@
     "timeMonth": 125,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-03-07": 4
+      "2023-03-07": 8
     }
   }
 ]
