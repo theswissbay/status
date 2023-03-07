@@ -4,19 +4,19 @@
     "url": "https://theswissbay.ch/",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 453,
-    "timeDay": 426,
-    "timeWeek": 429,
+    "time": 452,
+    "timeDay": 422,
+    "timeWeek": 428,
     "timeMonth": 432,
-    "timeYear": 453,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2023-03-07": 3,
+      "2023-03-07": 5,
       "2022-10-22": 9
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://theswissbay.ch/pdf/changelog.html",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "pdf-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 501,
-    "timeWeek": 772,
-    "timeMonth": 630,
-    "timeYear": 670,
+    "time": 671,
+    "timeDay": 643,
+    "timeWeek": 774,
+    "timeMonth": 635,
+    "timeYear": 671,
     "dailyMinutesDown": {
-      "2023-03-07": 2
+      "2023-03-07": 4
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://theswissbay.ch/archlinux/lastupdate",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png",
     "slug": "arch-linux-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 126,
-    "timeWeek": 124,
-    "timeMonth": 125,
+    "timeDay": 113,
+    "timeWeek": 121,
+    "timeMonth": 124,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-03-07": 1
+      "2023-03-07": 4
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://fourid.theswissbay.ch/",
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 455,
-    "timeWeek": 463,
-    "timeMonth": 457,
-    "timeYear": 489,
+    "time": 488,
+    "timeDay": 397,
+    "timeWeek": 449,
+    "timeMonth": 453,
+    "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-03-07": 1
+      "2023-03-07": 3
     }
   },
   {
@@ -87,9 +87,9 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 690,
     "timeDay": 676,
@@ -97,7 +97,7 @@
     "timeMonth": 686,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2023-03-07": 0
+      "2023-03-07": 3
     }
   },
   {
