@@ -4,18 +4,19 @@
     "url": "https://theswissbay.ch/",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 453,
     "timeDay": 426,
     "timeWeek": 429,
     "timeMonth": 432,
     "timeYear": 453,
     "dailyMinutesDown": {
+      "2023-03-07": 3,
       "2022-10-22": 9
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://theswissbay.ch/pdf/changelog.html",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "pdf-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
@@ -35,17 +36,19 @@
     "timeWeek": 772,
     "timeMonth": 630,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-07": 2
+    }
   },
   {
     "name": "Arch Linux mirror",
     "url": "https://theswissbay.ch/archlinux/lastupdate",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png",
     "slug": "arch-linux-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
@@ -53,17 +56,19 @@
     "timeWeek": 124,
     "timeMonth": 125,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-07": 1
+    }
   },
   {
     "name": "4id",
     "url": "https://fourid.theswissbay.ch/",
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 489,
@@ -71,7 +76,9 @@
     "timeWeek": 463,
     "timeMonth": 457,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-07": 1
+    }
   },
   {
     "name": "GitLab",
@@ -80,7 +87,7 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +96,9 @@
     "timeWeek": 711,
     "timeMonth": 686,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-07": 0
+    }
   },
   {
     "name": "GitLab SSH",
