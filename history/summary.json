@@ -4,11 +4,11 @@
     "url": "https://theswissbay.ch/",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 454,
     "timeDay": 480,
@@ -16,7 +16,7 @@
     "timeMonth": 444,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2023-03-12": 10,
+      "2023-03-12": 3,
       "2022-10-22": 9
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://theswissbay.ch/pdf/changelog.html",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "pdf-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 721,
     "timeDay": 812,
@@ -37,7 +37,7 @@
     "timeMonth": 891,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2023-03-12": 9
+      "2023-03-12": 3
     }
   },
   {
@@ -45,11 +45,11 @@
     "url": "https://theswissbay.ch/archlinux/lastupdate",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png",
     "slug": "arch-linux-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 127,
@@ -57,7 +57,7 @@
     "timeMonth": 136,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-03-12": 9
+      "2023-03-12": 2
     }
   },
   {
@@ -67,9 +67,9 @@
     "slug": "4id",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 487,
     "timeDay": 355,
@@ -77,7 +77,7 @@
     "timeMonth": 457,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2023-03-12": 8,
+      "2023-03-12": 17,
       "2023-03-07": 4
     }
   },
@@ -86,11 +86,11 @@
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 696,
     "timeDay": 1140,
@@ -98,7 +98,7 @@
     "timeMonth": 723,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-03-12": 8,
+      "2023-03-12": 1,
       "2023-03-07": 14
     }
   },
@@ -107,9 +107,9 @@
     "url": "81.6.2.165",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "96.25%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "0.60%",
     "uptimeWeek": "21.83%",
     "uptimeMonth": "82.01%",
     "uptimeYear": "96.25%",
@@ -119,8 +119,8 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-03-07": 1258,
       "2023-03-12": 861,
+      "2023-03-07": 1258,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
