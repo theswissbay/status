@@ -4,19 +4,19 @@
     "url": "https://theswissbay.ch/",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 711,
-    "timeDay": 522,
-    "timeWeek": 556,
-    "timeMonth": 571,
+    "time": 712,
+    "timeDay": 580,
+    "timeWeek": 565,
+    "timeMonth": 573,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2024-12-13": 25,
+      "2024-12-13": 30,
       "2024-07-03": 35,
       "2024-01-04": 55
     }
@@ -28,9 +28,9 @@
     "slug": "pdf-archive",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 628,
     "timeDay": 3479,
@@ -38,7 +38,6 @@
     "timeMonth": 766,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-12-13": 6,
       "2024-07-03": 34,
       "2024-01-04": 53
     }
@@ -50,9 +49,9 @@
     "slug": "arch-linux-mirror",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 128,
     "timeDay": 104,
@@ -60,7 +59,6 @@
     "timeMonth": 123,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-12-13": 5,
       "2024-07-03": 34,
       "2024-01-04": 53
     }
