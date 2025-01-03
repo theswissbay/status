@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 711,
     "timeDay": 626,
@@ -16,7 +16,6 @@
     "timeMonth": 575,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-01-03": 5,
       "2024-12-13": 30,
       "2024-07-03": 35
     }
@@ -46,19 +45,19 @@
     "url": "https://theswissbay.ch/archlinux/lastupdate",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png",
     "slug": "arch-linux-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 128,
-    "timeDay": 143,
-    "timeWeek": 121,
+    "time": 129,
+    "timeDay": 129,
+    "timeWeek": 119,
     "timeMonth": 124,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-01-03": 0,
+      "2025-01-03": 5,
       "2024-07-03": 34
     }
   },
