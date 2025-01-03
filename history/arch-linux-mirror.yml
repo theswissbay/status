@@ -1,7 +1,7 @@
 url: https://theswissbay.ch/archlinux/lastupdate
-status: down
-code: 503
-responseTime: 118
-lastUpdated: 2025-01-03T19:05:47.227Z
+status: up
+code: 200
+responseTime: 102
+lastUpdated: 2025-01-03T19:10:43.498Z
 startTime: 2022-10-18T12:25:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
