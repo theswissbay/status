@@ -65,9 +65,9 @@
     "url": "https://fourid.theswissbay.ch/",
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -77,6 +77,7 @@
     "timeMonth": 834,
     "timeYear": 986,
     "dailyMinutesDown": {
+      "2025-01-04": 0,
       "2024-07-03": 33
     }
   },
