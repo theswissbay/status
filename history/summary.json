@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "79.51%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "79.22%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.93%",
     "time": 800,
     "timeDay": 4348,
@@ -16,7 +16,7 @@
     "timeMonth": 1500,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2025-01-08": 296,
+      "2025-01-08": 300,
       "2024-12-13": 30,
       "2024-07-03": 35
     }
@@ -26,9 +26,9 @@
     "url": "https://theswissbay.ch/pdf/changelog.html",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "pdf-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "81.26%",
+    "uptimeDay": "81.22%",
     "uptimeWeek": "97.32%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.94%",
@@ -38,7 +38,7 @@
     "timeMonth": 1585,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2025-01-08": 270,
+      "2025-01-08": 271,
       "2024-07-03": 34
     }
   },
@@ -47,9 +47,9 @@
     "url": "https://theswissbay.ch/archlinux/lastupdate",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png",
     "slug": "arch-linux-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "87.53%",
+    "uptimeDay": "87.51%",
     "uptimeWeek": "98.22%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.96%",
@@ -70,9 +70,9 @@
     "slug": "4id",
     "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "82.01%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "81.71%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.94%",
     "time": 1024,
     "timeDay": 4717,
@@ -80,7 +80,7 @@
     "timeMonth": 1711,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2025-01-08": 259,
+      "2025-01-08": 263,
       "2024-07-03": 33
     }
   },
