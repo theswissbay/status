@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 743,
     "timeDay": 2804,
@@ -16,7 +16,7 @@
     "timeMonth": 943,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2025-01-08": 1,
+      "2025-01-08": 11,
       "2024-12-13": 30,
       "2024-07-03": 35
     }
@@ -28,9 +28,9 @@
     "slug": "pdf-archive",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 620,
     "timeDay": 1405,
@@ -38,7 +38,7 @@
     "timeMonth": 825,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-01-08": 0,
+      "2025-01-08": 11,
       "2024-07-03": 34
     }
   },
@@ -47,9 +47,9 @@
     "url": "https://theswissbay.ch/archlinux/lastupdate",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png",
     "slug": "arch-linux-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -59,6 +59,7 @@
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
+      "2025-01-08": 0,
       "2024-07-03": 34
     }
   },
@@ -67,18 +68,19 @@
     "url": "https://fourid.theswissbay.ch/",
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 965,
+    "time": 956,
     "timeDay": 660,
     "timeWeek": 892,
     "timeMonth": 833,
     "timeYear": 983,
     "dailyMinutesDown": {
+      "2025-01-08": 0,
       "2024-07-03": 33
     }
   },
