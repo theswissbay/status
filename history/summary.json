@@ -4,11 +4,11 @@
     "url": "https://theswissbay.ch/",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "73.75%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "73.99%",
+    "uptimeWeek": "96.28%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.92%",
     "time": 892,
     "timeDay": 5239,
@@ -16,7 +16,7 @@
     "timeMonth": 2200,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2025-01-08": 380,
+      "2025-01-08": 376,
       "2024-12-13": 30,
       "2024-07-03": 35
     }
@@ -26,9 +26,9 @@
     "url": "https://theswissbay.ch/pdf/changelog.html",
     "icon": "https://theswissbay.ch/favicon.ico",
     "slug": "pdf-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "79.10%",
+    "uptimeDay": "79.05%",
     "uptimeWeek": "97.01%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.94%",
@@ -38,7 +38,7 @@
     "timeMonth": 2340,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2025-01-08": 301,
+      "2025-01-08": 302,
       "2024-07-03": 34
     }
   },
