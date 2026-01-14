@@ -11,9 +11,9 @@
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.36%",
     "time": 927,
-    "timeDay": 567,
-    "timeWeek": 624,
-    "timeMonth": 741,
+    "timeDay": 699,
+    "timeWeek": 632,
+    "timeMonth": 739,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2026-01-01": 235,
@@ -26,8 +26,7 @@
       "2025-02-20": 16,
       "2025-02-11": 1136,
       "2025-02-10": 219,
-      "2025-01-20": 45,
-      "2025-01-14": 24
+      "2025-01-20": 45
     }
   },
   {
@@ -42,9 +41,9 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.36%",
     "time": 763,
-    "timeDay": 428,
-    "timeWeek": 466,
-    "timeMonth": 492,
+    "timeDay": 537,
+    "timeWeek": 458,
+    "timeMonth": 490,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2026-01-01": 234,
@@ -57,8 +56,7 @@
       "2025-02-20": 15,
       "2025-02-11": 1136,
       "2025-02-10": 219,
-      "2025-01-20": 44,
-      "2025-01-14": 15
+      "2025-01-20": 44
     }
   },
   {
@@ -73,9 +71,9 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.37%",
     "time": 213,
-    "timeDay": 108,
-    "timeWeek": 117,
-    "timeMonth": 124,
+    "timeDay": 135,
+    "timeWeek": 115,
+    "timeMonth": 123,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2026-01-01": 234,
@@ -96,18 +94,19 @@
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
     "status": "down",
-    "uptime": "90.08%",
+    "uptime": "90.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.41%",
+    "uptimeYear": "69.13%",
     "time": 1071,
-    "timeDay": 771,
-    "timeWeek": 954,
-    "timeMonth": 1062,
-    "timeYear": 967,
+    "timeDay": 942,
+    "timeWeek": 926,
+    "timeMonth": 1060,
+    "timeYear": 968,
     "dailyMinutesDown": {
-      "2026-01-13": 76,
+      "2026-01-14": 82,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -224,8 +223,7 @@
       "2025-02-16": 20,
       "2025-02-11": 1136,
       "2025-02-10": 219,
-      "2025-01-20": 43,
-      "2025-01-14": 23
+      "2025-01-20": 43
     }
   },
   {
@@ -239,10 +237,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.34%",
-    "time": 1223,
-    "timeDay": 814,
-    "timeWeek": 947,
-    "timeMonth": 1052,
+    "time": 1222,
+    "timeDay": 1008,
+    "timeWeek": 937,
+    "timeMonth": 1048,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2026-01-01": 233,
@@ -256,8 +254,7 @@
       "2025-02-16": 20,
       "2025-02-11": 1136,
       "2025-02-10": 219,
-      "2025-01-20": 43,
-      "2025-01-14": 46
+      "2025-01-20": 43
     }
   },
   {
@@ -272,8 +269,8 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.79%",
     "time": 123,
-    "timeDay": 106,
-    "timeWeek": 117,
+    "timeDay": 138,
+    "timeWeek": 116,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
