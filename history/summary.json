@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "89.49%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.70%",
     "time": 673,
     "timeDay": 579,
@@ -22,7 +22,7 @@
       "2025-10-31": 89,
       "2025-11-07": 74,
       "2026-01-01": 235,
-      "2026-07-13": 128
+      "2026-07-13": 151
     }
   },
   {
@@ -32,9 +32,9 @@
     "slug": "pdf-archive",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "91.23%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "89.61%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.70%",
     "time": 564,
     "timeDay": 936,
@@ -48,7 +48,7 @@
       "2025-10-31": 88,
       "2025-11-07": 74,
       "2026-01-01": 234,
-      "2026-07-13": 126
+      "2026-07-13": 150
     }
   },
   {
@@ -58,9 +58,9 @@
     "slug": "arch-linux-mirror",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "91.36%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "89.74%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.70%",
     "time": 203,
     "timeDay": 497,
@@ -74,7 +74,7 @@
       "2025-10-31": 88,
       "2025-11-07": 73,
       "2026-01-01": 234,
-      "2026-07-13": 124
+      "2026-07-13": 148
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2026-07-13": 646,
+      "2026-07-13": 669,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -394,17 +394,17 @@
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "97.09%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "95.32%",
-    "uptimeYear": "89.71%",
-    "time": 1001,
-    "timeDay": 959,
-    "timeWeek": 865,
-    "timeMonth": 867,
-    "timeYear": 1000,
+    "uptimeDay": "86.55%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "89.70%",
+    "time": 1003,
+    "timeDay": 1349,
+    "timeWeek": 1031,
+    "timeMonth": 880,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-09-24": 229,
       "2025-10-21": 78,
@@ -467,7 +467,7 @@
       "2026-06-26": 50,
       "2026-06-28": 60,
       "2026-07-12": 50,
-      "2026-07-13": 121
+      "2026-07-13": 144
     }
   },
   {
