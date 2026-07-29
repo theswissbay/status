@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2026-07-29": 966,
+      "2026-07-29": 971,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -410,16 +410,16 @@
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "97.14%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "89.67%",
     "time": 995,
-    "timeDay": 847,
-    "timeWeek": 852,
-    "timeMonth": 896,
+    "timeDay": 910,
+    "timeWeek": 865,
+    "timeMonth": 899,
     "timeYear": 996,
     "dailyMinutesDown": {
       "2025-09-24": 229,
@@ -488,7 +488,7 @@
       "2026-07-23": 35,
       "2026-07-24": 50,
       "2026-07-26": 20,
-      "2026-07-29": 0
+      "2026-07-29": 5
     }
   },
   {
