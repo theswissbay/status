@@ -90,14 +90,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.75%",
+    "uptimeYear": "6.70%",
     "time": 901,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2026-08-31": 188,
+      "2026-08-31": 421,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -534,9 +534,9 @@
     "url": "85.195.200.187",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab-ssh",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -556,7 +556,8 @@
       "2026-02-25": 60,
       "2026-03-07": 39,
       "2026-04-08": 29,
-      "2026-07-13": 116
+      "2026-07-13": 116,
+      "2026-08-31": 0
     }
   }
 ]
