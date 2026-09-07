@@ -86,18 +86,18 @@
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
     "status": "down",
-    "uptime": "75.02%",
+    "uptime": "75.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.69%",
+    "uptimeYear": "4.64%",
     "time": 904,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2026-09-07": 901,
+      "2026-09-07": 1196,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
@@ -455,10 +455,10 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "97.22%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "89.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "89.66%",
     "time": 992,
     "timeDay": 891,
     "timeWeek": 927,
@@ -533,8 +533,7 @@
       "2026-07-26": 20,
       "2026-08-03": 50,
       "2026-08-04": 16,
-      "2026-08-23": 35,
-      "2026-09-07": 5
+      "2026-08-23": 35
     }
   },
   {
@@ -542,9 +541,9 @@
     "url": "85.195.200.187",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -564,7 +563,8 @@
       "2026-02-25": 60,
       "2026-03-07": 39,
       "2026-04-08": 29,
-      "2026-07-13": 116
+      "2026-07-13": 116,
+      "2026-09-07": 0
     }
   }
 ]
