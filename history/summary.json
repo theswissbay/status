@@ -66,7 +66,7 @@
     "timeDay": 601,
     "timeWeek": 618,
     "timeMonth": 599,
-    "timeYear": 327,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-10-21": 79,
       "2025-11-01": 727,
@@ -83,7 +83,7 @@
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
     "status": "down",
-    "uptime": "73.74%",
+    "uptime": "73.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -94,7 +94,7 @@
     "timeMonth": 661,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2026-10-02": 224,
+      "2026-10-02": 1436,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
@@ -466,17 +466,17 @@
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "97.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "89.64%",
     "time": 981,
-    "timeDay": 895,
-    "timeWeek": 877,
-    "timeMonth": 908,
-    "timeYear": 977,
+    "timeDay": 728,
+    "timeWeek": 863,
+    "timeMonth": 904,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2025-10-21": 78,
       "2025-11-01": 728,
@@ -552,7 +552,8 @@
       "2026-09-21": 35,
       "2026-09-28": 20,
       "2026-09-29": 15,
-      "2026-10-01": 20
+      "2026-10-01": 20,
+      "2026-10-02": 4
     }
   },
   {
@@ -560,14 +561,14 @@
     "url": "85.195.200.187",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "97.20%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.84%",
     "time": 122,
-    "timeDay": 95,
+    "timeDay": 93,
     "timeWeek": 121,
     "timeMonth": 121,
     "timeYear": 121,
@@ -584,7 +585,8 @@
       "2026-07-13": 116,
       "2026-09-07": 17,
       "2026-09-11": 37,
-      "2026-10-01": 40
+      "2026-10-01": 40,
+      "2026-10-02": 0
     }
   }
 ]
