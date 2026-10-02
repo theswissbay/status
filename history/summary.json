@@ -12,8 +12,8 @@
     "uptimeYear": "99.74%",
     "time": 631,
     "timeDay": 681,
-    "timeWeek": 733,
-    "timeMonth": 633,
+    "timeWeek": 739,
+    "timeMonth": 634,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2025-10-21": 80,
@@ -38,9 +38,9 @@
     "uptimeYear": "99.74%",
     "time": 639,
     "timeDay": 1057,
-    "timeWeek": 1056,
-    "timeMonth": 1008,
-    "timeYear": 668,
+    "timeWeek": 1063,
+    "timeMonth": 1013,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2025-10-21": 79,
       "2025-11-01": 731,
@@ -64,9 +64,9 @@
     "uptimeYear": "99.74%",
     "time": 284,
     "timeDay": 634,
-    "timeWeek": 617,
-    "timeMonth": 598,
-    "timeYear": 326,
+    "timeWeek": 621,
+    "timeMonth": 599,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2025-10-21": 79,
       "2025-11-01": 727,
@@ -83,7 +83,7 @@
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
     "status": "down",
-    "uptime": "73.76%",
+    "uptime": "73.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -92,9 +92,10 @@
     "timeDay": 750,
     "timeWeek": 707,
     "timeMonth": 707,
-    "timeYear": 952,
+    "timeYear": 951,
     "dailyMinutesDown": {
-      "2026-10-01": 1086,
+      "2026-10-02": 87,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -457,8 +458,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -466,17 +466,17 @@
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "97.27%",
-    "uptimeDay": "98.62%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "89.64%",
     "time": 982,
-    "timeDay": 970,
-    "timeWeek": 905,
-    "timeMonth": 913,
-    "timeYear": 978,
+    "timeDay": 924,
+    "timeWeek": 883,
+    "timeMonth": 911,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2025-10-21": 78,
       "2025-11-01": 728,
@@ -552,7 +552,8 @@
       "2026-09-21": 35,
       "2026-09-28": 20,
       "2026-09-29": 15,
-      "2026-10-01": 20
+      "2026-10-01": 20,
+      "2026-10-02": 0
     }
   },
   {
@@ -568,8 +569,8 @@
     "uptimeYear": "99.84%",
     "time": 122,
     "timeDay": 110,
-    "timeWeek": 126,
-    "timeMonth": 121,
+    "timeWeek": 125,
+    "timeMonth": 122,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-10-21": 77,
