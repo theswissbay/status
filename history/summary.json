@@ -14,7 +14,7 @@
     "timeDay": 574,
     "timeWeek": 608,
     "timeMonth": 640,
-    "timeYear": 631,
+    "timeYear": 630,
     "dailyMinutesDown": {
       "2025-10-21": 80,
       "2025-11-01": 731,
@@ -83,7 +83,7 @@
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
     "status": "down",
-    "uptime": "73.30%",
+    "uptime": "73.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -92,9 +92,10 @@
     "timeDay": 836,
     "timeWeek": 751,
     "timeMonth": 739,
-    "timeYear": 931,
+    "timeYear": 929,
     "dailyMinutesDown": {
-      "2026-10-10": 1391,
+      "2026-10-11": 7,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -457,8 +458,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   },
   {
@@ -466,17 +466,17 @@
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "72.76%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "96.72%",
+    "uptimeDay": "73.77%",
+    "uptimeWeek": "94.07%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.35%",
     "time": 960,
-    "timeDay": 848,
+    "timeDay": 847,
     "timeWeek": 864,
     "timeMonth": 876,
-    "timeYear": 951,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2026-06-19": 579,
       "2026-06-20": 676,
@@ -504,7 +504,8 @@
       "2026-10-07": 17,
       "2026-10-08": 20,
       "2026-10-09": 85,
-      "2026-10-10": 395
+      "2026-10-10": 380,
+      "2026-10-11": 0
     }
   },
   {
@@ -522,7 +523,7 @@
     "timeDay": 139,
     "timeWeek": 115,
     "timeMonth": 120,
-    "timeYear": 121,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2025-10-21": 77,
       "2025-11-07": 101,
