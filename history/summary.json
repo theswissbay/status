@@ -12,7 +12,7 @@
     "uptimeYear": "99.74%",
     "time": 631,
     "timeDay": 607,
-    "timeWeek": 608,
+    "timeWeek": 599,
     "timeMonth": 639,
     "timeYear": 630,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
     "uptimeYear": "99.74%",
     "time": 649,
     "timeDay": 1332,
-    "timeWeek": 951,
+    "timeWeek": 961,
     "timeMonth": 999,
     "timeYear": 675,
     "dailyMinutesDown": {
@@ -90,11 +90,11 @@
     "uptimeYear": "0.00%",
     "time": 907,
     "timeDay": 830,
-    "timeWeek": 761,
+    "timeWeek": 774,
     "timeMonth": 747,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2026-10-11": 131,
+      "2026-10-11": 172,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
@@ -466,16 +466,16 @@
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "74.50%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "96.75%",
+    "uptimeDay": "74.84%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.35%",
-    "time": 960,
-    "timeDay": 849,
-    "timeWeek": 862,
-    "timeMonth": 874,
+    "time": 959,
+    "timeDay": 851,
+    "timeWeek": 858,
+    "timeMonth": 873,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2026-06-19": 579,
@@ -505,7 +505,7 @@
       "2026-10-08": 20,
       "2026-10-09": 85,
       "2026-10-10": 380,
-      "2026-10-11": 5
+      "2026-10-11": 0
     }
   },
   {
@@ -521,7 +521,7 @@
     "uptimeYear": "99.84%",
     "time": 121,
     "timeDay": 137,
-    "timeWeek": 117,
+    "timeWeek": 118,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
