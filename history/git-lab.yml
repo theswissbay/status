@@ -1,7 +1,7 @@
 url: https://gitlab.theswissbay.ch/users/sign_in
-status: up
-code: 200
-responseTime: 787
-lastUpdated: 2026-10-14T15:21:00.198Z
+status: down
+code: 429
+responseTime: 915
+lastUpdated: 2026-10-14T15:46:14.929Z
 startTime: 2022-10-17T19:38:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
