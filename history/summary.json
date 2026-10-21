@@ -80,7 +80,7 @@
     "icon": "https://fourid.theswissbay.ch/static/img/ico.webp",
     "slug": "4id",
     "status": "down",
-    "uptime": "72.78%",
+    "uptime": "72.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -91,7 +91,7 @@
     "timeMonth": 743,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2026-10-21": 546,
+      "2026-10-21": 581,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -463,15 +463,15 @@
     "url": "https://gitlab.theswissbay.ch/users/sign_in",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "38.55%",
-    "uptimeWeek": "63.29%",
-    "uptimeMonth": "91.55%",
-    "uptimeYear": "99.30%",
+    "uptimeWeek": "62.94%",
+    "uptimeMonth": "91.47%",
+    "uptimeYear": "99.29%",
     "time": 938,
-    "timeDay": 933,
-    "timeWeek": 896,
+    "timeDay": 934,
+    "timeWeek": 897,
     "timeMonth": 892,
     "timeYear": 929,
     "dailyMinutesDown": {
@@ -479,7 +479,7 @@
       "2026-10-18": 901,
       "2026-10-19": 835,
       "2026-10-20": 910,
-      "2026-10-21": 325
+      "2026-10-21": 360
     }
   },
   {
