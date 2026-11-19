@@ -82,7 +82,7 @@
     "timeMonth": 773,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2026-11-19": 1266,
+      "2026-11-19": 1274,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
@@ -458,7 +458,7 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.05%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "99.27%",
     "time": 937,
     "timeDay": 1114,
@@ -478,15 +478,15 @@
     "url": "85.195.200.187",
     "icon": "https://gitlab.theswissbay.ch/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
     "slug": "git-lab-ssh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 121,
-    "timeDay": 120,
-    "timeWeek": 123,
+    "timeDay": 115,
+    "timeWeek": 122,
     "timeMonth": 118,
     "timeYear": 120,
     "dailyMinutesDown": {
@@ -503,7 +503,7 @@
       "2026-10-01": 40,
       "2026-11-16": 19,
       "2026-11-18": 29,
-      "2026-11-19": 0
+      "2026-11-19": 9
     }
   }
 ]
